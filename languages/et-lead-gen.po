@@ -1,0 +1,56 @@
+# Domain: et-lead-gen, Language: es
+# /et-lead-gen/ajax.php:29
+msgid "Missing field %s."
+msgstr ""
+
+# /et-lead-gen/ajax.php:32
+msgid "Invalid email address in field %s."
+msgstr ""
+
+# /et-lead-gen/ajax.php:36
+msgid "Field %s must be numeric."
+msgstr ""
+
+# /et-lead-gen/ajax.php:52
+msgid "Missing timestamp field."
+msgstr ""
+
+# /et-lead-gen/et-lead-gen.php:35
+msgid "Thanks for your submission."
+msgstr ""
+
+# /et-lead-gen/et-lead-gen.php:36
+msgid "Your submission cannot be processed:"
+msgstr ""
+
+# /et-lead-gen/et-lead-gen.php:37
+msgid "Unknown error, please try again later."
+msgstr ""
+
+# /et-lead-gen/admin.php:12
+msgid "Customers"
+msgstr ""
+
+# /et-lead-gen/functions.php:49
+msgid "Name"
+msgstr ""
+
+# /et-lead-gen/functions.php:54
+msgid "Phone Number"
+msgstr ""
+
+# /et-lead-gen/functions.php:59
+msgid "Email Address"
+msgstr ""
+
+# /et-lead-gen/functions.php:64
+msgid "Desired Budget"
+msgstr ""
+
+# /et-lead-gen/functions.php:69
+msgid "Message"
+msgstr ""
+
+# /et-lead-gen/shortcode.php:105
+msgid "Submit"
+msgstr ""

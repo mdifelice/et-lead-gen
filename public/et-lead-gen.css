@@ -1,0 +1,19 @@
+.et-lead-gen-form {
+	margin-bottom: 1em;
+}
+
+.et-lead-gen-form label {
+	display: block;
+	margin-bottom: 1em;
+}
+
+.et-lead-gen-form input,
+.et-lead-gen-form textarea {
+	display: block;
+	width: 100%;
+	min-height: 40px;
+}
+
+.et-lead-gen-form input[type=submit] {
+	width: auto;
+}
